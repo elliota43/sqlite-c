@@ -1,4 +1,5 @@
 sqlite
+mydb.db
 .idea
 .ruby-lsp
 db.dSYM
