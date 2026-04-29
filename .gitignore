@@ -1,2 +1,4 @@
 sqlite
 .idea
+.ruby-lsp
+db.dSYM
